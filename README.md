@@ -8,6 +8,7 @@ An application developed in python to covert text into morse-code and morse-code
 <b>Text 2 Morse Module</b>
 <br> <br> <br>
 ![Screenshot (3)](https://user-images.githubusercontent.com/120410687/209556072-dd202ee0-f011-4410-b04c-b14e9c693866.png)
+
 <b>Output of Text 2 Morse Module</b>
-<br>Description : It generates the equivalent morse code for the text and displays it, the output is copied to clipbord so you coud use it later to paste
+<br><b>Description</b> : It generates the equivalent morse code for the text and displays it, the output is copied to clipbord so you coud use it later to paste
 <br> <br> <br>
