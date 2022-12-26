@@ -40,7 +40,7 @@ Output : It generates the equivalent text for the morse code (International Mors
 <br> <br> <br>
 
 <pre><b>Output Snaps of Text 2 Morse Module</b></pre> <br>
-![Screenshot (3)](https://user-images.githubusercontent.com/120410687/209556072-dd202ee0-f011-4410-b04c-b14e9c693866.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/120410687/209559265-0b9fa9a3-53c4-4a53-9ef3-bf4c64b4bde8.png)
 <pre><b>With Valid Input</b></pre> <br>
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/120410687/209556745-23c6c77e-9602-42aa-98fb-1b9f93108d1a.png)
