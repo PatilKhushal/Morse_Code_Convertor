@@ -27,6 +27,7 @@ Output : It generates the equivalent morse code (International Morse Code) for t
 
 <br> <br> <br>
 <br> <br> <br>
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/120410687/209558614-51b99ec4-8467-4d4c-bafe-171722edf554.png)
 <pre><b>Morse 2 Text Module</b> <br>
 <b>Description</b> : <br>
