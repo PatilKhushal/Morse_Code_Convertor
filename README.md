@@ -4,12 +4,17 @@ An application developed in python to covert text into morse-code and morse-code
 <br> <br> <br>
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/120410687/209554574-f653005f-98b8-44f4-8d1a-7f6692e5f3d6.png)
-<b>Homepage</b>
+<b><pre>Homepage</pre></b>
 <br> <br> <br>
 <br> <br> <br>
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/120410687/209554951-243b9879-1dc6-45b4-ae33-95b11b347a4d.png)
 <b>Text 2 Morse Module</b>
+<br><b>Description</b> : <br>
+<Valid Input : Alphanumeric Data
+<br>
+Output : It generates the equivalent morse code for the Alphanumeric Data and displays it
+          the output is copied to clipbord so you coud use it later to paste
 <br> <br> <br>
 <br> <br> <br>
 
@@ -21,5 +26,5 @@ An application developed in python to covert text into morse-code and morse-code
 ![Screenshot (5)](https://user-images.githubusercontent.com/120410687/209556745-23c6c77e-9602-42aa-98fb-1b9f93108d1a.png)
 <b>With Invalid Input</b>
 
-<br><b>Description</b> : It generates the equivalent morse code for the text and displays it, the output is copied to clipbord so you coud use it later to paste
+
 <br> <br> <br>
