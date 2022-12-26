@@ -43,5 +43,5 @@ Output : It generates the equivalent text for the morse code (International Mors
 ![Screenshot (7)](https://user-images.githubusercontent.com/120410687/209559265-0b9fa9a3-53c4-4a53-9ef3-bf4c64b4bde8.png)
 <pre><b>With Valid Input</b></pre> <br>
 
-![Screenshot (5)](https://user-images.githubusercontent.com/120410687/209556745-23c6c77e-9602-42aa-98fb-1b9f93108d1a.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/120410687/209559330-2dcc4b37-0325-4c14-926c-d4d1e1078da3.png)
 <pre><b>With Invalid Input</b></pre>
