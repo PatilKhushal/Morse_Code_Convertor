@@ -11,8 +11,8 @@
 <pre><b>Text 2 Morse Module</b> <br>
 <b>Description</b> : <br>
 Valid Input : Alphanumeric Data <br>
-Output : It generates the equivalent morse code (International Morse Code) for the Alphanumeric Data and displays it
-         the output is copied to clipbord so you coud use it later to paste
+Output : It generates the equivalent Morse Code (International Morse Code) for the Alphanumeric Data and displays it
+         The output is copied to clipbord so you coud use it later to paste
 </pre>
 <br> <br> <br>
 <br> <br> <br>
@@ -33,8 +33,8 @@ Output : It generates the equivalent morse code (International Morse Code) for t
 <pre><b>Morse 2 Text Module</b> <br>
 <b>Description</b> : <br>
 Valid Input : Valid Morse Code (International Morse Code) <br>
-Output : It generates the equivalent text for the morse code (International Morse Code) and displays it
-         the output is copied to clipbord so you coud use it later to paste
+Output : It generates the equivalent Alphanumeric Data for the Morse Code (International Morse Code) and displays it
+         The output is copied to clipbord so you coud use it later to paste
 </pre>
 <br> <br> <br>
 <br> <br> <br>
